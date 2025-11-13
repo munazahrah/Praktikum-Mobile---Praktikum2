@@ -1,16 +1,45 @@
-# praktikum1
+# praktikum2
 
-A new Flutter project.
+README: Project Modul 2 - Layout dengan Row & Column
 
-## Getting Started
+📖 Deskripsi
 
-This project is a starting point for a Flutter application.
+Project ini adalah tugas kedua dari mata kuliah Mobile Programming. Fokus utamanya adalah memahami cara mengatur tata letak (layout) elemen-elemen di dalam aplikasi Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Anda akan belajar menggunakan dua widget layout paling fundamental: Row (untuk menyusun elemen secara horizontal/mendatar) dan Column (untuk menyusun elemen secara vertikal/menurun).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎯 Tujuan Utama Project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Memahami Layout: Mengerti konsep dan perbedaan antara Row dan Column dalam mengatur children (elemen di dalamnya).
+
+Membuat Widget Kustom: Berlatih membuat widget Anda sendiri (Custom Widget) menggunakan StatelessWidget dan Container.
+
+Styling Visual: Menerapkan properti visual seperti color, border, borderRadius, dan Icon untuk mempercantik tampilan.
+
+Menggabungkan Layout: Mampu mengkombinasikan Row dan Column untuk membuat tata letak yang lebih kompleks (seperti grid).
+
+✅ Daftar Tugas (To-Do List)
+
+Berikut adalah hal-hal yang harus Anda kerjakan berdasarkan modul:
+
+Buat Project Baru:
+
+[ ] Buat "New Flutter Project" dengan nama row_and_column.
+
+Latihan Dasar (Sesuai Modul):
+
+[ ] Ikuti langkah di modul untuk membuat MyRowWidget (berisi Row dengan 3 Container berwarna).
+
+[ ] Ikuti langkah di modul untuk membuat MyColumnWidget (berisi Column dengan 3 Container berwarna).
+
+[ ] Jalankan dan pahami perbedaan output dari kedua widget tersebut.
+
+Tugas Praktikum (Inti Project):
+
+[ ] Modifikasi 1: Tambahkan 4 kotak (Container) dengan warna biru yang berbeda-beda ke dalam sebuah Row atau Column.
+
+[ ] Modifikasi 2: Ubah Icon yang ada di latihan menjadi Icons.favorite dan berikan warna merah.
+
+[ ] Modifikasi 3: Tambahkan sebuah Text (misal: "Favorit") di bawah setiap Icon tadi. (Petunjuk: Anda perlu membungkus Icon dan Text di dalam sebuah Column).
+
+[ ] Tantangan Utama: Buatlah sebuah layout Grid 2x2. (Petunjuk: Gabungkan Row dan Column. Contoh: Buat 1 Column besar, lalu isi children-nya dengan 2 buah Row. Masing-masing Row tersebut berisi 2 kotak/Container).
