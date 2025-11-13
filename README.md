@@ -1,6 +1,6 @@
-# praktikum2
+# Praktikum2
 
-README: Project Modul 2 - Layout dengan Row & Column
+Project Modul 2 - Layout dengan Row & Column
 
 📖 Deskripsi
 
