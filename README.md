@@ -1,4 +1,4 @@
-# Praktikum2
+# Praktikum 2
 
 Project Modul 2 - Layout dengan Row & Column
 
